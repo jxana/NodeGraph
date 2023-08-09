@@ -1,7 +1,3 @@
-# Dialogue-Editor-Tutorial
-A Unity Dialogue Editor
+# A NodeGraph Framework basen on UI Toolkit
 
-Unity 2020.3.2f1
-
-### Dialogue-Prototype
-![](https://i.imgur.com/muDCjTS.jpg)
+![Screenshot 2022-02-25 151414](https://github.com/jxana/NodeGraph/assets/118371865/64bbb81d-eca8-469c-afc7-29b8550b6692)
