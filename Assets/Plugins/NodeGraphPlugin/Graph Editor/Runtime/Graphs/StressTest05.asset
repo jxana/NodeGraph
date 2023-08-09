@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a69ff5ed214494b835d86b8438ac53, type: 3}
+  m_Name: StressTest05
+  m_EditorClassIdentifier: 
+  NodeLinkDatas:
+  - BaseNodeGuid: a2e395cd-22db-4973-a265-1f08c5751561
+    BasePortName: 421e8cbc-efff-4aaa-ba81-6e0d8f860cbc
+    DestinationNodeGuid: 52b73cf7-0ca9-4ddf-b94e-4024fc02ea2d
+    DestionationPortName: 2c444de6-b7e4-4fdb-8691-bb8d9cce2779
+  - BaseNodeGuid: a2e395cd-22db-4973-a265-1f08c5751561
+    BasePortName: d2810d49-bfa2-4c3b-8c7c-08c5cc4dedfb
+    DestinationNodeGuid: 3263479d-9289-4cf3-9641-5177faae3158
+    DestionationPortName: fcaf6d18-b8b4-4da3-9897-8b0eeaf79ed8
+  StartData:
+  - defaultInputPort:
+      PortGuid: bad4f14f-d6c9-4144-9b28-767addcf553c
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 151e766f-2bba-473e-92f6-51c44326f57d
+      DestionationPortGuid: 
+      connectionType: HappinessEffectRewardNode
+    NodeUIGuid: b731add7-76e1-45b7-99f2-64168aabe457
+    NodePosition: {x: 3354, y: 526}
+    data:
+      hello: 
+  - defaultInputPort:
+      PortGuid: f4ce8d5b-a580-4e40-9b21-73503f0c3a38
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 979fd82f-1cf4-46e9-8e2b-3b73b2ce2f82
+      DestionationPortGuid: 
+      connectionType: HappinessEffectRewardNode
+    NodeUIGuid: 5497201a-3be8-449e-a691-ed64f42896d8
+    NodePosition: {x: 3854, y: 526}
+    data:
+      hello: 
+  - defaultInputPort:
+      PortGuid: 1356bfac-b22d-4009-af5f-1d79283c49b5
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: de179c4d-584d-4347-ae78-7764ee1a13d3
+      DestionationPortGuid: 
+      connectionType: HappinessEffectRewardNode
+    NodeUIGuid: eaa5b91e-a9f8-4eca-a54b-aeed8274a2bf
+    NodePosition: {x: 3354, y: 209}
+    data:
+      hello: 
+  - defaultInputPort:
+      PortGuid: 3c78ba5d-2de0-4449-8238-649a1c87874c
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 421e8cbc-efff-4aaa-ba81-6e0d8f860cbc
+      DestionationPortGuid: 2c444de6-b7e4-4fdb-8691-bb8d9cce2779
+      connectionType: HappinessEffectRewardNode
+    - PortGuid: d2810d49-bfa2-4c3b-8c7c-08c5cc4dedfb
+      DestionationPortGuid: fcaf6d18-b8b4-4da3-9897-8b0eeaf79ed8
+      connectionType: HappinessEffectRewardNode
+    - PortGuid: 0022c5f9-606d-4db7-a51f-d02bdf9ac91e
+      DestionationPortGuid: 
+      connectionType: HappinessEffectRewardNode
+    - PortGuid: 2ae296d2-6224-4e07-bc3d-57a71172e74a
+      DestionationPortGuid: 
+      connectionType: HappinessEffectRewardNode
+    NodeUIGuid: a2e395cd-22db-4973-a265-1f08c5751561
+    NodePosition: {x: -458, y: 135}
+    data:
+      hello: 
+  HappinessData:
+  - defaultInputPort:
+      PortGuid: 2c444de6-b7e4-4fdb-8691-bb8d9cce2779
+      SourcePortGuid: 421e8cbc-efff-4aaa-ba81-6e0d8f860cbc
+    portDatas:
+    - PortGuid: 82d32512-0490-4d3f-beaa-cad376fbe7ec
+      DestionationPortGuid: 
+      connectionType: EndNode
+    NodeUIGuid: 52b73cf7-0ca9-4ddf-b94e-4024fc02ea2d
+    NodePosition: {x: 160, y: 114}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: fcaf6d18-b8b4-4da3-9897-8b0eeaf79ed8
+      SourcePortGuid: d2810d49-bfa2-4c3b-8c7c-08c5cc4dedfb
+    portDatas:
+    - PortGuid: a5e727be-a932-4bf9-a7e9-27f55cf066bf
+      DestionationPortGuid: 
+      connectionType: EndNode
+    NodeUIGuid: 3263479d-9289-4cf3-9641-5177faae3158
+    NodePosition: {x: 160, y: 493}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  EndData:
+  - defaultInputPort:
+      PortGuid: 9c9cdf2f-1ad1-45b2-81d6-ad92e5e9e559
+      SourcePortGuid: 
+    portDatas: []
+    NodeUIGuid: a4e63242-77d4-4e27-821d-db42f2d847b9
+    NodePosition: {x: 4328, y: 481}
+    data:
+      EndNode: I am a EndNode
+      endNodeType: 1

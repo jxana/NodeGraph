@@ -1,0 +1,77 @@
+.node #title{
+	background-color: rgb(29,115,57);
+}
+
+#node-border{
+	background-color: rgb(0,0,0);
+}
+
+.node{
+min-width: 450px;
+
+}
+.Label{
+	/*margin-top:5px;
+	margin-left:4px;*/
+	font-size: 20px;
+}
+
+.PortName{
+	display:none;
+}
+
+.delete_port_button, .add_port_button, .reorder_button{
+	position: relative;
+	align-content: flex-start;
+	left:3px;
+	flex-direction: row;
+	width: 26px;
+	height: 26px;
+	margin: 1px;
+	font-size: 20px;
+}
+
+.listViewContainer{
+	margin: 10px;
+}
+
+
+.listViewElem,.toolbarContainer{
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.toolbarContainer {
+	justify-content: flex-end; 
+}
+
+.list_port < .unity-text-element {
+	width: 300px;
+}
+
+.connectionTypeLabel{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.slot{
+	border-color: white;
+	flex-direction:row;
+	border-bottom-width: 1px;
+	justify-content: flex-end;
+	min-height: 60px;
+	min-width : 100%;
+	background-color: red;
+	opacity: 0.4;
+	}
+
+.listElem{
+
+	background-color: blue;
+	position: absolute;
+	flex-direction: row;
+	margin-left: auto;
+    border-radius: 5px;
+	margin: 15px;
+	padding: 5px;
+}

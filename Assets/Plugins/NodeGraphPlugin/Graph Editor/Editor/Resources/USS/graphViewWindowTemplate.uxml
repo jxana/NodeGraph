@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <ui:VisualElement name="Parent" view-data-key="Parent" style="height: auto; flex-direction: row; justify-content: flex-start; min-width: auto; min-height: 1000px; max-width: initial; max-height: initial;">
+        <ui:VisualElement name="GraphViewContainerElement" view-data-key="GraphViewContainerElement" style="flex-direction: row; height: 100%; width: auto; align-items: flex-start; min-width: 80%; max-width: 80px; max-height: 100%; min-height: 100%; visibility: visible;">
+            <uie:Toolbar name="Toolbar" view-data-key="Toolbar" style="height: 10px; width: auto;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="InspectorElement" view-data-key="InspectorElement" style="width: 110px; flex-direction: column; justify-content: flex-start; max-height: 100%; min-width: 20%; max-width: 20%; min-height: 100%; margin-right: 0; padding-right: 10px; margin-left: 0; visibility: visible;">
+            <ui:Label text="Please Load Graph Scriptable Object " display-tooltip-when-elided="true" name="NameOfContainer" view-data-key="NameOfContainer" style="height: 36px; width: 100%; font-size: 12px; margin-left: 3px; margin-right: 3px; margin-top: 3px; -unity-text-align: middle-center; -unity-font-style: bold;" />
+            <ui:Button text="Load" display-tooltip-when-elided="true" name="Load" view-data-key="Load" focusable="false" style="height: 25px; width: 100%; font-size: 12px; margin-top: 3px; margin-bottom: 3px;" />
+            <ui:Button text="Create" display-tooltip-when-elided="true" name="Create" view-data-key="Create" style="height: 25px; width: 100%; font-size: 12px; margin-top: 3px; margin-bottom: 3px;" />
+            <ui:Button text="Show Inspector" display-tooltip-when-elided="true" name="ShowInspector" view-data-key="ShowInspector" style="height: 25px; width: 100%; font-size: 12px; margin-top: 3px; margin-bottom: 3px; margin-right: 3px; visibility: visible;" />
+            <ui:VisualElement name="CreationField" view-data-key="CreationField" focusable="false" style="visibility: hidden; margin-left: 3px; margin-right: 3px; margin-top: 60px; margin-bottom: 3px; padding-left: 6px; padding-right: 0; padding-top: 0; padding-bottom: 0; width: 100%; display: flex; overflow: hidden; opacity: 1;">
+                <ui:TextField picking-mode="Ignore" label="Graph Name" text="example.asset" name="GraphNameField" view-data-key="GraphNameField" style="height: 21px; width: 100%; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; display: flex; visibility: hidden; margin-left: 0; margin-right: 0;" />
+                <ui:VisualElement name="ButtonHolder" view-data-key="ButtonHolder" style="flex-direction: row; visibility: hidden; margin-top: 10px;">
+                    <ui:Button text="Exit" display-tooltip-when-elided="true" name="Exit" view-data-key="Exit" style="height: 25px; width: 50%; align-items: stretch; flex-direction: row; margin-top: 0; margin-bottom: 0; flex-wrap: nowrap; margin-left: 0; margin-right: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; padding-left: 0;" />
+                    <ui:Button text="Submit" display-tooltip-when-elided="true" name="Submit" view-data-key="Submit" style="height: 25px; width: 50%; align-items: stretch; flex-direction: row; margin-top: 0; margin-bottom: 0; flex-wrap: nowrap; margin-left: 0; margin-right: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="InspectorWindow" view-data-key="InspectorWindow" style="height: 745px; width: 412px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

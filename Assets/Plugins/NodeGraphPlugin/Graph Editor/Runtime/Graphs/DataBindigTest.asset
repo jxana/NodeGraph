@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a69ff5ed214494b835d86b8438ac53, type: 3}
+  m_Name: DataBindigTest
+  m_EditorClassIdentifier: 
+  NodeLinkDatas:
+  - BaseNodeGuid: 17ffbf84-da1d-438c-bf16-b60c81ce08e6
+    BasePortName: 2985073b-d084-4ad7-9f9f-324a181e567a
+    DestinationNodeGuid: 163c575f-ec51-4c5c-b0af-71a213dd90c5
+    DestionationPortName: e07d4c9e-a9bb-4126-9872-08d043e81eda
+  StartData:
+  - defaultInputPort:
+      PortGuid: c17dca95-09a5-4fe7-819b-4c2f94afb526
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 2985073b-d084-4ad7-9f9f-324a181e567a
+      DestionationPortGuid: e07d4c9e-a9bb-4126-9872-08d043e81eda
+      connectionType: HappinessEffectRewardNode
+    - PortGuid: 42e86615-faa4-49d1-8eec-6e9a82fcba1a
+      DestionationPortGuid: 
+      connectionType: HappinessEffectRewardNode
+    - PortGuid: 045b4dd1-dd9c-418b-8bcc-d23409460b65
+      DestionationPortGuid: 
+      connectionType: HappinessEffectRewardNode
+    - PortGuid: 587d5758-dfb8-4505-8e2b-c329a49ebb74
+      DestionationPortGuid: 
+      connectionType: HappinessEffectRewardNode
+    NodeUIGuid: 17ffbf84-da1d-438c-bf16-b60c81ce08e6
+    NodePosition: {x: 357, y: 489}
+    data:
+      hello: 
+  HappinessData:
+  - defaultInputPort:
+      PortGuid: a96791ef-5d30-4f31-94aa-419beb5bef42
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: e6fce912-bb4f-4db2-9bbc-a7f2f1415262
+      DestionationPortGuid: 
+      connectionType: EndNode
+    NodeUIGuid: 5da94cca-25cf-4c33-ad42-7f742d0e093a
+    NodePosition: {x: 497, y: -29}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 113686d9-9a90-4ed0-b93c-df790e78df36
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 0247fe81-063d-4c24-a1e3-63844359cff0
+      DestionationPortGuid: 
+      connectionType: EndNode
+    NodeUIGuid: c1048e4d-dbf4-4341-9d38-8a236b5bd90b
+    NodePosition: {x: 19, y: -29}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: e07d4c9e-a9bb-4126-9872-08d043e81eda
+      SourcePortGuid: 2985073b-d084-4ad7-9f9f-324a181e567a
+    portDatas:
+    - PortGuid: 59fe93ba-4b8f-4297-9d24-e6cf810ab5cd
+      DestionationPortGuid: 
+      connectionType: EndNode
+    NodeUIGuid: 163c575f-ec51-4c5c-b0af-71a213dd90c5
+    NodePosition: {x: 969, y: 577}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: ea4e250e-3fd9-42f3-b967-2f81a1c03351
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: ea0934da-5052-4fc7-8b47-0f044e4c7b90
+      DestionationPortGuid: 
+      connectionType: EndNode
+    NodeUIGuid: 0ccd53a9-356e-4570-9193-dcc7e3a63c73
+    NodePosition: {x: 969, y: 957}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  EndData:
+  - defaultInputPort:
+      PortGuid: cb170e33-b96a-46cb-b6d5-5a46b1b37f4f
+      SourcePortGuid: 
+    portDatas: []
+    NodeUIGuid: 321dbe4b-95a6-4150-b191-192155754f28
+    NodePosition: {x: 1438, y: 365}
+    data:
+      EndNode: I am a EndNode
+      endNodeType: 1
+  - defaultInputPort:
+      PortGuid: 0212139a-107c-4c21-b607-06952c524863
+      SourcePortGuid: 
+    portDatas: []
+    NodeUIGuid: f5c609e8-0cc4-4f8c-956d-547c6a8c8d51
+    NodePosition: {x: 969, y: 365}
+    data:
+      EndNode: I am a EndNode
+      endNodeType: 1
+  - defaultInputPort:
+      PortGuid: f17dd341-2896-481a-add2-64fa9037faaa
+      SourcePortGuid: 
+    portDatas: []
+    NodeUIGuid: c02309d9-365a-4033-863f-739c2d8990e8
+    NodePosition: {x: 969, y: -29}
+    data:
+      EndNode: I am a EndNode
+      endNodeType: 1
+  - defaultInputPort:
+      PortGuid: 4364dce3-43e4-42ee-a444-cadf7f2489e1
+      SourcePortGuid: 
+    portDatas: []
+    NodeUIGuid: 8707d03a-9456-4e4b-8085-72e09f5841a5
+    NodePosition: {x: 969, y: 206}
+    data:
+      EndNode: I am a EndNode
+      endNodeType: 2
+  TestData: []

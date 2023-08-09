@@ -1,0 +1,15 @@
+GridBackground {
+    --grid-background-color: rgb(40, 40, 40);
+    --line-color: rgba(193, 196, 192, 0.1);
+    --thick-line-color: rgba(193, 196, 192, 0.1);
+    --spacing: 10;
+}
+
+.GraphContainer {
+    min-width: 100px;
+    min-height: 100%;
+}
+
+.SideBarContainer {
+    background-color: rgb(34, 34, 34);
+}

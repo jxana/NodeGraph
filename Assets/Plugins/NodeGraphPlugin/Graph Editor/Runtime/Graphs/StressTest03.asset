@@ -1,0 +1,1698 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99a69ff5ed214494b835d86b8438ac53, type: 3}
+  m_Name: StressTest03
+  m_EditorClassIdentifier: 
+  NodeLinkDatas: []
+  StartData: []
+  HappinessData:
+  - defaultInputPort:
+      PortGuid: 1a96db18-3bc1-41a1-8d68-327a0a59b712
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 42c20904-87cd-46d2-b5a4-fa81474cdaad
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: cc9b3ae3-9d22-452b-8040-adf85b2a5efb
+    NodePosition: {x: -265, y: -296}
+    data:
+      TargetSettlers: frffffffrf
+      Stack: 33rfdwrgg
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: c4aec49e-fc95-486e-99bb-8b474965f214
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 018cb0c1-f294-4a82-b6f4-f3fa440981a3
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 96c9344a-d087-4204-996c-5e8a8183496f
+    NodePosition: {x: -265, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: b9b06692-9735-4eb8-97af-b05f1a211ed7
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: c1375ff5-0a48-4fbe-906a-199f3c99c3bc
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: ec12af42-cc8a-4820-a8e1-d1e77b058dfa
+    NodePosition: {x: -265, y: 618}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 4f5aa7a5-ec42-47a0-b33b-195c240edd7d
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: bf7c24f2-59f3-4599-a164-db56c937d07a
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 81396323-b6a0-4077-8704-2b9610f996f6
+    NodePosition: {x: -265, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: a9a0a569-3b2b-47b6-889d-3f73309ae899
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 1e5fc5e6-60d4-441b-8266-08205ae5298b
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 0630d9ba-b68c-408a-8c87-df3451d3b5f0
+    NodePosition: {x: -265, y: 1}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: cecf3dff-3315-42b9-8ed0-7c70d12e5ab6
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: a6faa346-1040-4aed-8b6e-d976c9b9d131
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: c3d7481f-3ba9-4e41-a557-11ed8d9c9c90
+    NodePosition: {x: 365, y: -552}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: b811d47d-d69d-4e9c-993b-9f75ab6802d5
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 8994f6d7-6b28-4ee1-8098-356421392df9
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 8d8c3819-eaf8-4bcb-8da0-94b437f7a5f5
+    NodePosition: {x: 365, y: 1}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: dddee30c-aa35-4a08-a4fa-ba692b64354e
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: c1c7a8c4-f238-4409-9d8a-88688cb6c05e
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 95ee8523-76a3-460d-a797-bd34c537c859
+    NodePosition: {x: 365, y: 618}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: d8ddb109-6103-46eb-990c-adffc9d53730
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 3ca6445f-30ea-448f-af8e-d069aadb9d80
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 50727d8c-cf49-40db-a8dd-8b867234d1d5
+    NodePosition: {x: 365, y: -296}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 1a10f366-ed1b-42a6-ae59-94c445950cb7
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 1cad58bd-4712-4b86-b1ff-53e6cf5ce411
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 2ab262ab-dedd-4fdc-86c0-6be071b4a7b8
+    NodePosition: {x: 365, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: fd5f148d-bfec-4e3c-92e8-4912deddc488
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 5186ede0-6ee3-448f-8b74-0e975aba8ad8
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 74c6e816-d6f3-4ba8-8a9f-d3ce61e14172
+    NodePosition: {x: 995, y: -296}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 038b5ab7-f9de-499b-a0fb-e8297d0ef09f
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 50089868-9be7-4581-8905-fc61f6de31d6
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 1e832487-3332-4d05-949c-749529f0ccbd
+    NodePosition: {x: 995, y: 1}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: fb580971-a806-4e9a-9151-62ee7867dc87
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 8eabec4e-9672-4070-b230-eefd276c8c5d
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 5be40a34-9604-46ec-8fa5-279a39339a85
+    NodePosition: {x: 995, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: a5aac902-2adf-4a44-9a80-60f83c882b0a
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 12bf18e9-5367-44f0-8819-2be2ff378f24
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: f1f93b44-eeba-4a2f-b81c-355a9af28263
+    NodePosition: {x: 995, y: 543}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 9f7ea87e-17df-4652-9577-84b9e64d3c62
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 64695abc-0707-4483-b710-fec7a04abb3b
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 4466e0df-b9a6-4009-8ed6-0ac66af9f056
+    NodePosition: {x: 995, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: cb315dc4-3f97-4f9f-9d24-9acd56f61401
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 29f9e0fa-fd1c-4e6a-b5b6-0bf629f637e8
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 6912177a-ef1e-4a4a-82a8-46003e69ec59
+    NodePosition: {x: -265, y: -1924}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 0f4983f8-cb85-42c4-8605-79aa27ee7e0d
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 9b7fea86-9fa5-4a7d-b0fc-deabc6160103
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: e240939f-7c08-4192-bcfa-6a167712fbcc
+    NodePosition: {x: -265, y: -1656}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: d7235c17-b8e5-4fb0-b20f-c822f8d5f715
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 6f436db7-50e4-4c1a-a3a9-b772bf5d499b
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 91f429fa-2633-4bb2-8a1d-ccaf83636bf6
+    NodePosition: {x: -265, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: fcc8e139-ca03-480b-b46b-9913de3c7ac7
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 8e1fbc8c-4504-4206-883d-1fc90f37a47c
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: a3e5b52a-3407-487a-8b63-5bbbd021ec03
+    NodePosition: {x: -265, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: ce0a3f08-35d8-45c0-a0fe-cb8b354ccbb1
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 7ec30a9f-4a86-4804-b8b2-e4ba26f9720d
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 78844568-bc1c-43f3-bdd9-0aa6d62d4ddb
+    NodePosition: {x: -265, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: f0e46e65-9a1c-4ebd-acff-b0cc4d798a90
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 2003d01b-2613-4cff-aea0-e5ce603a9066
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: a5114f09-869f-44fe-b82e-7e95de4cc13c
+    NodePosition: {x: 365, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 3edebbd1-15f8-42d0-9a50-aa18777a016d
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 4168bb39-84aa-4467-be54-363009a9f558
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 85fa74ca-b652-4ca1-9a39-2c822bef292d
+    NodePosition: {x: 365, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 5d1b9366-6f84-44de-8872-58e4b5d9adc2
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: a0992519-8e57-4252-89f2-5d42fac4a65f
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 4fa9a5fa-7f7c-44e6-9d9c-0b3fc1d75c39
+    NodePosition: {x: 365, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: a327b5b7-76ea-4149-8e2a-44cf07a3e314
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 93221fa5-cf1e-4915-b67e-6546a894d638
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: fbcb89c5-180e-454b-8c46-cf2ad6e810a7
+    NodePosition: {x: 365, y: -1656}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 27fa4502-a864-41fe-aa36-42cc82b04fff
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 363903b1-e5d0-41e1-9d7c-272304d064af
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 4a4501ff-c268-4419-9f23-8b180294cde6
+    NodePosition: {x: 365, y: -1924}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 0dfc497f-0300-4048-a3d1-ac89027978a9
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: e86cd7ae-81b9-4c39-a09a-cbc43f8d7844
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: eafd0c3a-71ba-4e37-9422-94cf66775aab
+    NodePosition: {x: 995, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 3ce76f64-ac53-4c71-a280-5c93ae0bd3a3
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: fac28786-88db-4ecf-91dc-e20ad1a50d8c
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: feea3c3c-4e97-4faf-8574-b0ea6a473892
+    NodePosition: {x: 995, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 1509b7a6-5ffc-4a71-92d1-22e01bd9baf3
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 94ff89e8-5b5a-4951-8b4d-4577767ed5aa
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 37114422-2d9a-43dc-8510-13c9f1ee28c8
+    NodePosition: {x: 995, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 9e6d4b8f-a779-47eb-b256-2d4823d18183
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 93c29288-6e94-4657-912d-edff911efd96
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: e53e19f2-f35d-4132-a34c-e74c7d035b69
+    NodePosition: {x: 995, y: -1656}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: d7b5b5b8-bb73-4dd9-a906-95a5c4614112
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 8c00a26d-6b62-44a8-a82e-49b9ec54f35a
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 7462f616-89c0-4c5e-b07b-4386b731a9f7
+    NodePosition: {x: 995, y: -1924}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 11211b4b-8309-43ea-8029-0bb2cf54cf36
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: e2e12f1a-c945-4036-b3e9-d2432e8aad54
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 05d6b99c-69f1-40fc-a78b-0876ee10eb33
+    NodePosition: {x: 1625, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 0d158d65-935e-4256-a2e8-33464fe9be6d
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: e2a6215b-4fe7-4129-9f44-0cfde8e51a7b
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: e83d71c4-918a-4051-8309-87af8d26f819
+    NodePosition: {x: 1625, y: -296}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: be030b3b-bc5f-4b2e-9aac-799d33af2a9a
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 6f0b2c89-f998-4f94-8846-b5d3536df011
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: cca27bcf-1b68-4b9b-9c17-35945545a0c9
+    NodePosition: {x: 1625, y: 1}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: ef2be640-ca88-4592-96f1-c714dce8e218
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: f5492b00-cf77-480e-b872-71d0952a5d78
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 31cca07e-96b9-4295-80e0-bbc1fcab8bb7
+    NodePosition: {x: 1625, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 986339b4-5e4e-47df-8c37-f055db4cef18
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 623ed0dd-5732-4330-b7df-187d4b55f1ff
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: c943caaf-925e-4e56-bb30-4022d03df27a
+    NodePosition: {x: 1625, y: 543}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 9b72d3df-5a7e-491d-9418-8992ad4bc25e
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: e4f6d1bd-b193-4359-b5e6-0ed528368b91
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: d83af5fb-f20e-43b0-af54-56ba96fab618
+    NodePosition: {x: 1625, y: -1924}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 1460037b-3116-4582-8172-16508b160ac6
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: fff8be10-92c1-4840-a05e-1b3845a06dd9
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 951af798-fe48-40fe-a29f-27ae3b707560
+    NodePosition: {x: 1625, y: -1656}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: e49f7b9c-bf83-4817-9254-483d6d594795
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 669f9994-d537-4b94-93f5-3f3172de0859
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 48cba508-b234-4875-a45f-6f3c6f3f6838
+    NodePosition: {x: 1625, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: c9b89a84-a1b6-4e1d-8767-62edeb368e9b
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: fc6dea47-d76c-46bf-b385-8de22d4c113c
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 2e7416fe-3659-452a-8ff0-4d1ab3c61789
+    NodePosition: {x: 1625, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 52595f29-2f85-47d1-a868-68282526a26a
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: e7383bcd-7343-4d2e-938a-fe499e844309
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: c165d517-01b5-4e3a-80be-cd172796a265
+    NodePosition: {x: 1625, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 4633cd97-d635-4da3-8114-52d714bc388e
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 60fc797e-8204-4bc5-88b5-02be307f3e73
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: e023c227-2c22-4118-8f2d-e2e7f1aa0038
+    NodePosition: {x: 2255, y: -1924}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 648c548a-5fbd-4227-8855-cb1f71c6318d
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: ddb7bc4d-4037-44ab-ae6d-6ea6420c707a
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 8d17b05c-bf39-4c00-b32e-09b6a80226c7
+    NodePosition: {x: 2255, y: -1656}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: d29e31ca-94ba-4733-a27c-4a3e66930cfb
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 5f2d531d-3f79-402a-bb31-a4a0361f0a29
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: d5427aed-d7ce-430b-9923-6f06be987a98
+    NodePosition: {x: 2255, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: a21597dc-99db-419d-aa13-a3a5514e732a
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 214b10e5-f6c6-48eb-8a74-ed78bf983f8c
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: a1bdd219-4d17-49d5-a3ed-5f7494f59267
+    NodePosition: {x: 2255, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 31283101-4503-4046-b4d7-bea913e62eca
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 109f1146-ec48-46e4-8ff8-b6387ac7014e
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 225f7ff9-36d9-4a8f-bc28-585ce7387b8b
+    NodePosition: {x: 2255, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 618ca545-f211-476b-9995-f32da4dbf008
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 2e2f05e8-41b5-44f3-a95c-12cfc94500e6
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: a338c8b4-b5f1-4b78-b3e6-2ca69de4ff22
+    NodePosition: {x: 2255, y: -296}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 40bd7343-10bb-46a9-b4bd-47691d8ac087
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 8de50fdb-28e1-4374-85d9-92ec37865582
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 67e47a33-b245-4c9f-b09f-fd452c0c5db0
+    NodePosition: {x: 2255, y: 1}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 381765a0-94dd-4210-8dc8-65958c9e1e07
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 99f5f510-1342-458a-9d4a-21aee469834c
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 276ae790-efdb-4f3c-9323-9ad9a213a1c1
+    NodePosition: {x: 2255, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 24e2e00d-bac9-4a74-b066-f0adbe15d798
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 684c9bfd-9b09-489b-a6b9-92dc01070224
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 70078658-47dd-44ec-8946-bcedc5b2cccb
+    NodePosition: {x: 2255, y: 543}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 830e82f0-647d-449c-b7bf-8acef0d281d7
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: cf1949e7-aed0-499c-a924-29a712d710f7
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 2ff1336c-1cea-483d-9f8a-c6fd9403f62c
+    NodePosition: {x: 2255, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 93d9eee8-0d69-42cb-98da-a30c7bd86d03
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: fc9c68ff-652b-4106-a88b-841bf0dc98a4
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 12a41f9a-c06e-4378-abda-89f4c9aab5dc
+    NodePosition: {x: 2885, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: f78c062b-d680-4f59-8cd9-cdc1ada165e3
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 614f1df9-5a35-42af-a033-473f776afca8
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: aea87cc0-1780-4c5c-92ab-8c8c5edda220
+    NodePosition: {x: 2885, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 1a2c2a26-446c-4284-9a09-d143948b7dcf
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: b0bc0046-0395-47fd-b775-faf7036c1c73
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 625a8640-d432-48ec-b882-df02cc21e8ec
+    NodePosition: {x: 2885, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 90216449-b199-4045-bad6-69a0434d06a9
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: c29022f2-51a5-4bc3-9bcd-977e96f152dd
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 1d8d02b7-f483-48b0-ba4d-782783294fa7
+    NodePosition: {x: 2885, y: -1656}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 453f1fac-6b9c-427f-ad8c-d9bf7b1eebb6
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 940d4410-619b-4f97-93ae-827d4a414aac
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 44898e10-4d0c-4f40-ae8e-92bc428f080d
+    NodePosition: {x: 2885, y: -1924}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 2df31576-f19d-4180-862a-a104d679c7df
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 7e9d6b07-2bb5-423b-9190-dcbfe506bcef
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 847488c7-65f7-4b2e-b17d-57a3d6388117
+    NodePosition: {x: 2885, y: 543}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 490cd3dd-60c5-419e-a155-7596a599dfc7
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 4ba610a4-31ac-4e5a-8f60-24aaf64a3e00
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 3a014beb-9354-4895-81b5-71aac9c4ed76
+    NodePosition: {x: 2885, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: b8f9d711-7f71-4771-9812-27a75eaddd3d
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 9d61ad61-a4ee-4c9b-874b-b0113b0f802d
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: a5672f2d-378e-4fa5-87fa-823339f61e35
+    NodePosition: {x: 2885, y: 1}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 189a72c8-92f0-4538-ad3f-d112209040a8
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 36c3efa4-8887-475d-9aea-4b79e8693bcd
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: c28ffc7c-b4b7-458c-b305-0acbd0173a31
+    NodePosition: {x: 2885, y: -296}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 389eb616-53e9-4a77-84a3-fc906b5603fd
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 75184c44-b8af-4256-b0f0-3e4d4b1e6536
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 5815e6fa-11e0-48f0-90ee-80bf7af3ccf6
+    NodePosition: {x: 2885, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 2e264c30-207e-4b0a-bba9-9bb87388c99f
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 25985a93-0c3a-4678-a4ed-7584928e8fcc
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: e14df52f-88a4-4571-a06a-64804b5ccfa8
+    NodePosition: {x: 3515, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 7f9efa90-5ac9-4d87-862e-240381852bb8
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 81c75595-e192-4017-8256-0dfe50f0caa2
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: b9ca60d0-f85e-41dd-ac69-b2958843e3a7
+    NodePosition: {x: 3515, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 474f6aa3-9061-498d-8632-c8eaa8dff81e
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 5330a012-f83f-4899-8aff-62d5bb06cecf
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 3b69c48f-b8f5-40b0-a5f2-7c510b74c74b
+    NodePosition: {x: 3515, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 85d78539-9394-4857-aca9-eb911c92152f
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: bcd625bc-e01f-438b-b517-169a79a3d069
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: a5eabb41-a3c6-4751-b439-2ff5bf55406c
+    NodePosition: {x: 3515, y: -1656}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 4c6798f2-e666-43d9-8178-c0f9aef105e4
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 02821e22-f993-4564-882a-1516eaf91aa1
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 2123598d-7662-4dfd-9821-0aafb3abe460
+    NodePosition: {x: 3515, y: -1926}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 5655ae58-a8d2-4a4d-8d41-b00f3d062c45
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: b80eb1c6-9321-4848-8106-aefc43eee81c
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 4519f51a-f3bd-41b7-9dd4-ec4013e874be
+    NodePosition: {x: 3515, y: 543}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: f0232dcd-3fc4-4d9f-bf90-7349d9be80b2
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 3696b363-e8d1-45b5-be09-057ebabad280
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 3e0106bc-d5c4-434d-bcaa-53e16de0aaa8
+    NodePosition: {x: 3515, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 06117be6-fd96-44cc-b481-b25b0288d094
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 5d0b3329-11a4-426a-b88d-37ad8afeef56
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 7a0feb10-4e9d-41d0-8ac8-843f8aadbb0c
+    NodePosition: {x: 3515, y: 1}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 4742b5bb-bd17-423e-a9be-dadd5028e5d5
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 34de6520-cfc2-4b21-82fd-d7480d34f1bf
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: b781018b-8e64-4d9c-afc5-c7203423b49f
+    NodePosition: {x: 3515, y: -296}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 802b6ce4-53ad-469f-9867-adc80c296998
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: e3382fac-6f1b-4c5f-b9a8-ba092addf64c
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 8dd9de79-a30c-4d83-800a-2f9b905ffa88
+    NodePosition: {x: 3515, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 995e34cf-768c-4b8a-b3d4-572a2ffc61a5
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 7b13507d-07bb-40d1-9c67-35ed6220b5b2
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 85454296-12f9-4a77-a7d9-9b37a54cb2aa
+    NodePosition: {x: 4145, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 230be734-08a1-4d8f-9e69-38dd26706c66
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: ffc504d6-3b0c-468b-9437-3e6fd200b2e4
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 37a29122-bb50-40e4-b9b1-2c8f4d51c1e5
+    NodePosition: {x: 4145, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 9dcd08f9-11e6-4405-bba0-435d1cb85316
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 15d3d2ed-34e5-478f-a8a4-0ef7ad85cbad
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 3f07222a-b7e3-4484-8e4c-b3708d930693
+    NodePosition: {x: 4145, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 4e97b143-718f-4291-8b1a-a5f717eefc92
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 820715eb-d8a3-4282-a058-166b73732780
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 5699d702-b278-455d-8d40-a5f4e411a4b9
+    NodePosition: {x: 4145, y: -1656}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 76b25193-89b9-4aff-a5c2-307eee0e923b
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 04b55dad-219d-44ae-877e-1a306204be11
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 760dfe09-ff58-4efd-bddf-1c23137c08c4
+    NodePosition: {x: 4145, y: -1926}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 2bad6c6a-3400-4735-a8a7-aa51b613cf33
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 2976e3cd-4bc3-465f-931b-eb3770a127a2
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 403a6ad1-0a05-407c-85de-45f7ef0ac91d
+    NodePosition: {x: 4145, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 8ecf8f56-9e0e-41b8-8068-a4f0745b3016
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 3e159169-054f-40f8-aa60-07473788c51d
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: fb681a0d-74e4-40cc-a52a-b6c06fedd94f
+    NodePosition: {x: 4145, y: 1}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: fd52dd87-743d-4aa5-9d4f-c456984fea52
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: e232eb5f-b4e3-47aa-8abd-142b1c70bc9c
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 12f946bb-3a5f-4486-9761-a6f7e5354028
+    NodePosition: {x: 4145, y: -296}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 4622616c-1650-4288-ae11-53e24dc2b871
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 8ba04422-8055-4593-8903-76cd3bdb1eda
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 6d0b80a3-f58c-4788-81ce-d7354044dcf7
+    NodePosition: {x: 4145, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 6d4e93c8-ab09-4be1-9415-947401aaa3df
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: bd0dffc4-6e3c-446a-9c8c-0bc2409497b3
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 1969386e-7349-473c-a70f-296ac11317e9
+    NodePosition: {x: 4145, y: 543}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: cf7c7cab-2fda-43b2-b132-ae76bb6375a1
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: bb82c064-4e10-4ac3-90d8-17eba7209f3f
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: a709055b-fe91-4991-9625-801f5d885a3c
+    NodePosition: {x: 4775, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: f82cbb37-0b55-4330-a7e8-02f8c9cfa54d
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: f81ff3c2-927e-49fb-a4be-70fd72dda2b0
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 41213576-c1bb-4dd7-9cb5-27b0f0ffd7ce
+    NodePosition: {x: 4775, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 0ef5952c-fb37-4d70-b4bc-2b83a775abd5
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: f888ecc6-19fb-4ed6-97b1-7dcb4b35d2af
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 3caf9ea2-6341-4302-897c-58fed04a3d3a
+    NodePosition: {x: 4775, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 26fd0cff-689d-4414-bc38-4e54d74b255e
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: a0b718b5-7eda-4c46-8f35-e2cca16589af
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 77792390-5751-49fe-8c4d-4f6466db61a8
+    NodePosition: {x: 4775, y: -1656}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: d2e9bef6-d020-420b-ae75-91e62bc48024
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 7a0ecda7-514a-4f98-b8a5-834f32587505
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 02384f6e-839b-4ddc-b1fc-d1136386962f
+    NodePosition: {x: 4775, y: -1926}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 12908a22-688d-4291-b10c-e47bd2140c84
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 30229667-2eae-4f12-bd30-b6dfd9b9f6d9
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: b83b1d7a-b128-4f48-877e-bc7a79f780d3
+    NodePosition: {x: 4775, y: 543}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: a9ecdf75-4fde-4c27-a3f3-417d78d7150a
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 31c9ec07-9b4c-4026-a309-44dcc3cf00c8
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 591498a4-387e-4a5a-930e-33f176f7a3ae
+    NodePosition: {x: 4775, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 87e9490e-bf8e-4f67-a5b4-18923e1ee5a5
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 9d059209-b993-4e93-aaf3-0ea42454c659
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 3469fe31-d742-4291-bb5f-e044202e6584
+    NodePosition: {x: 4775, y: -19}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: deb0fe5b-153c-45d5-90f3-66ab7e68fb77
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 99923d3b-ebb1-45eb-9440-f0d1910dd7ec
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 716f484d-5947-4186-8517-563e3f8a7a08
+    NodePosition: {x: 4775, y: -296}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: feadb882-87ab-48f9-a803-ba06cec692ba
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 23537574-a08a-4c5e-bc8f-e1588d370eee
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 2509f7a3-957f-43a1-a1a8-0b6060cb37c6
+    NodePosition: {x: 4775, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 58aacd7b-5538-49bc-b481-6a486604c892
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 63301676-5970-4b0d-88e3-c4d60c66e0e8
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 69046174-d9ff-425f-a035-7bb570f29b3f
+    NodePosition: {x: 5405, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 9fa7d3a7-c21f-4863-8772-55c84c1a8446
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 31242674-9e78-4d29-bdb0-3a0c98c2a7c6
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: fc8eab7c-0211-44a4-a3ec-da68dc8692e4
+    NodePosition: {x: 5405, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 23aee44a-ca1a-4e9b-810a-031139ddde70
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 16871653-dee7-4906-951d-a6163774799a
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 2c221882-0cac-44db-87f2-498a47b14b5c
+    NodePosition: {x: 5405, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: fd3cc158-142c-4551-a95a-ba7e24e972ab
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 7049ca68-d54b-4a03-9a65-414f830097de
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: e35718b1-501f-4ec0-b47b-2894958f19e4
+    NodePosition: {x: 5405, y: -1651}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: f7d21745-6169-4c33-aeaf-94989cba36d2
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: df8ddece-2e2d-45b3-a84d-310c3a9f011a
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 58344a40-70d5-423b-b355-e296c4e8f3df
+    NodePosition: {x: 5405, y: -1926}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 1202de29-3de6-44a7-bfa4-f424555eae65
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: a6657b3b-b731-4e36-9aa4-86d6b2ba98d0
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 4ef55ef7-8c53-4ff5-be88-e4ee1f1595c5
+    NodePosition: {x: 5405, y: 543}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 35a1d6fc-13b6-4d58-8463-13d0046383bb
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: eeab28ff-2459-4abe-8bc3-a70f293e5afb
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 284e639b-6555-4c05-9c33-426ae51c9dcf
+    NodePosition: {x: 5405, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 417c9b05-d406-453b-b502-67ebb2c347b7
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: ef8a4314-aa40-433b-953b-a64c3951ac20
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 5330cf5d-49e2-4627-b548-e1dd4262f33b
+    NodePosition: {x: 5405, y: -19}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 8f0ef715-6aae-4d07-b575-59d808cf8858
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 852ac135-bd11-40ff-9df5-37469ff9fc5b
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 3a5e49c6-d5cc-4f91-befc-a06a6bf1f19c
+    NodePosition: {x: 5405, y: -291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 4b91e71f-d3f3-447e-b2d9-f96efb744b4e
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: b34bd3b9-f8a3-48a3-9ef8-b4db3d33bbc7
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 5758fefc-161a-4de8-9aee-dd9274670909
+    NodePosition: {x: 5405, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 66c84640-c8f6-4a4f-824c-7c40a05680a6
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 739c3723-34d8-4e02-a83a-ec1a6f684232
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: c7bac934-ed6f-479b-b346-2a5ad89ecee1
+    NodePosition: {x: 6035, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 3ffa40cc-320b-4939-9eee-7b7b25955bba
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 5b8876a8-40a4-4950-bc95-dbaa42f12d65
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 59a8a4be-dc2b-4539-aef9-c110f4fc4860
+    NodePosition: {x: 6035, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 1082b80f-d14b-4971-893f-db585a9acfe3
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 42d7841d-c497-4219-98cf-dc0e63070a40
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 7c8128e9-3d50-49ac-834b-7e8feb561dc0
+    NodePosition: {x: 6035, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 5347af0a-c6e5-430a-b5c8-1618c73bce5b
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 8fe472d6-4300-4c5a-a2c5-0699c6bb3bcd
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 6e4690a6-48fb-40d3-86d9-7e699a676edd
+    NodePosition: {x: 6035, y: -1651}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 437c56ca-c603-4f37-ba87-0411d51dd664
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 5a9b664a-ae00-44d4-9009-0dca436fa237
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: b33c3d44-9596-4da9-a55c-cb062fc4af09
+    NodePosition: {x: 6035, y: -1926}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 91236f3e-b173-4077-a3ed-5e1a763379c9
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 0e2849b5-def6-4fad-a0a6-b08d9986c3a7
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 886d80da-34aa-4458-90e9-5f18cc252cfd
+    NodePosition: {x: 6035, y: 543}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 0b150cff-1cda-434d-b7a0-364e94599e99
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: c095c8db-6973-4320-9ee0-9cb267aeceb7
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: e620ea59-f46d-4cce-a074-b6799edfd433
+    NodePosition: {x: 6035, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 941a8176-3094-4d38-84e0-ba07f119cc0f
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 19443535-488a-44fe-bd5d-2139eb436ff4
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 2eac36de-3138-4408-bc0c-db8ed2f0ba88
+    NodePosition: {x: 6035, y: -19}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 87564dbc-fc5a-4712-9024-e5b227a21219
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: a6143a30-2758-418d-9f6e-609d560f5c00
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 3456b65b-1f7f-45f3-abef-c9fca5104cb1
+    NodePosition: {x: 6035, y: -291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 9641a726-720a-475a-b241-9370841714af
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 6561cba1-bc6e-4de1-b0b0-12d6ebbba578
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 2f57209c-bbc9-498c-8b73-d4fcd3672faf
+    NodePosition: {x: 6035, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 346c83d1-0e36-4861-a96b-5e5b75778b25
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 01691cc9-7824-4b2b-95cc-6772a4269958
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 88f20c56-4b31-46ce-bb6e-8536751f45f2
+    NodePosition: {x: 6665, y: -1651}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: dd897bb7-6f92-48d6-8f25-9cf111b17df1
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 7d4fe784-22fe-46fa-abb0-c8c2fa44702d
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 7f949ff5-dcac-4a66-91dd-42cb4fca13d9
+    NodePosition: {x: 6665, y: -1400}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: d6e726eb-b127-4fbf-94aa-fcab11d11b12
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 96ab87ff-833d-4d7b-8987-5370f5fc2675
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 51c7194d-aa80-4211-8d6a-a2f3a189f42c
+    NodePosition: {x: 6665, y: -1132}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 5e606771-fe4e-4bc9-b4d1-aea40e2b6dac
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 72104acb-5e29-4267-b967-822eb7c4d69b
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 4f75715c-b201-400d-aa58-135c97253c2c
+    NodePosition: {x: 6665, y: -844}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: ad13737d-5a47-4847-9b6b-32f2a09a7f5e
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 31af572b-bd34-4103-95b1-3fc477355e31
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: c73cc2b5-eb1f-4cc4-9580-4fc11cb85d70
+    NodePosition: {x: 6665, y: -1926}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 6a74f662-ac56-4ccd-8085-9fd7026b7823
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: 7f6b0ceb-3738-466f-b008-08d161db5811
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 0caab06d-8e53-457a-8ab9-81d7703d4f52
+    NodePosition: {x: 6665, y: -291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: a7658b6e-85d6-4542-a8c2-04e10b6d25d5
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: ee8d1c18-6b28-4cf7-b96e-ae5bc9f04c45
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: fd6332c9-b37f-4b13-af50-ff8205939536
+    NodePosition: {x: 6665, y: -19}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 5a2a1092-fd77-4922-961a-7d6b5304d52e
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: bb9ea744-7744-4973-ad46-bfa139d80f17
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 8d4f74f0-98d3-488b-be1e-f3ae0eaf53fc
+    NodePosition: {x: 6665, y: 291}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: 8fe04b3f-270c-4927-9945-85c45f1b5f4c
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: f59b6bfb-85b3-429a-9f9f-d3e0b86bede3
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 7e7dfff8-9527-426b-b8c9-0cefa5d57971
+    NodePosition: {x: 6665, y: 543}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  - defaultInputPort:
+      PortGuid: d2d74420-00ba-4255-a85c-4a1d63d6b8bb
+      SourcePortGuid: 
+    portDatas:
+    - PortGuid: d81d242c-8408-4046-8cf3-7393ba516883
+      DestionationPortGuid: 
+      connectionType: 
+    NodeUIGuid: 7cb9d2e0-95d0-4cd7-8b17-3e3d041780d2
+    NodePosition: {x: 6665, y: -565}
+    data:
+      TargetSettlers: 
+      Stack: 
+      EffectAction: 1
+      HappinessEffect: 1
+  EndData: []
